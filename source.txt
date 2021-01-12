@@ -1,0 +1,50 @@
+【更多资源】▶https://www.youtube.com/channel/UCvij...
+【TG电报】▶https://t.me/joinchat/N_RwDBSTuLn_BGn...
+-------------------------------------
+我的下载工具：http://www.internetdownloadmanager.co...
+Ubuntu Mate 镜像下载：https://bit.ly/323xLHz
+Rufus写盘工具：https://bit.ly/323xLHz
+Chrome 安装框架+恢复镜像下载：https://bit.ly/323xLHz
+install.sh脚本命令：
+sudo apt-get update
+sudo apt-get install figlet
+sudo apt-get install pv
+sudo apt-get install cgpt
+sudo bash chromeos-install.sh -src rammus_recovery.bin -dst /dev/sda
+
+翻墙VPN推荐（排名前3）：
+1.ExpressVPN：https://bit.ly/2Dg1rHU
+2.NordVPN：https://bit.ly/31EGtfA
+3.Surfshark ：https://bit.ly/3jTYBcl
+
+-------------------------------------
+Ubuntu 真正免费、开源的操作系统！ 附最新安装教程+安全设置 
+https://youtu.be/PExZJa-yoa8
+五款非常牛的免费软件，你可能真的没用过！
+https://youtu.be/eoTXmcu7fEg
+务必删除Windows 10 的五大缓存
+https://youtu.be/LPHQLPxSEjs
+免费注册虚拟手机号，注重个人隐私更安全！
+https://youtu.be/uwglDQz4HMI
+五款最安全的聊天软件，端到端加密让通信更安全更放心！
+https://youtu.be/7iEL8RvaDvk
+排名前十的免费软件，每一款都是精品，电脑软件良心推荐！
+https://youtu.be/vHL3WaFROuo
+这5款免费软件，能让你的电脑变的更强大更专业！
+https://youtu.be/j2_zqj99ozE
+bt种子下载神器，不限速，这几款都是真正好用的BT下载工具
+https://youtu.be/ZUT5oZUlpeM
+如何让电脑更安全
+https://youtu.be/NpDw0mxEESM
+五款最安全的聊天软件
+https://youtu.be/7iEL8RvaDvk
+免费在线看电影
+https://youtu.be/KKOj17M683A
+5款非常棒的免费软件 
+https://youtu.be/j2_zqj99ozE
+排名前10的谷歌精品插件
+https://youtu.be/FNEn73wd_CE
+十款Windows10精品应用
+https://youtu.be/WJVUk9cgUDw
+这些免费软件希望你早点知道
+https://youtu.be/ME2jxWLltA0
