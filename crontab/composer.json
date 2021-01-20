@@ -1,0 +1,12 @@
+{
+    "name": "pozen/workerman-demo-timer",
+    "require": {
+        "workerman/workerman": "^4.0"
+    },
+    "repositories": {
+        "packagist": {
+            "type": "composer",
+            "url": "https://mirrors.aliyun.com/composer/"
+        }
+    }
+}
